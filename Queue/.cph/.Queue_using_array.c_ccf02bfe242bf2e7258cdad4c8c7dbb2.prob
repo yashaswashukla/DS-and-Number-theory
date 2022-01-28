@@ -1,0 +1,1 @@
+{"name":"Local: Queue_using_array","url":"c:\\Yashaswa\\Code\\DSA\\Queue\\Queue_using_array.c","tests":[{"id":1629812838921,"input":"5\n12 11 2 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Yashaswa\\Code\\DSA\\Queue\\Queue_using_array.c","group":"local","local":true}

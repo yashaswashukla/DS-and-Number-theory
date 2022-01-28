@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Yashaswa\\Codes\\Code\\DSA\\Linked_List\\test.c","tests":[{"id":1632120439021,"input":"4\n1 2 3 4\n2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Yashaswa\\Codes\\Code\\DSA\\Linked_List\\test.c","group":"local","local":true}
